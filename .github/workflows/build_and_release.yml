@@ -30,6 +30,7 @@ jobs:
             debhelper \
             devscripts \
             cmake \
+            libxcb-present-dev \
             pkg-config \
             libdrm-dev \
             libx11-dev \
